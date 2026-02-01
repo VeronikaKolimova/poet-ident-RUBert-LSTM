@@ -49,8 +49,14 @@ pip install -r requirements.txt
 jupyter notebook L_07.ipynb
 ```
 
-## 📈 Results Visualization
+## 💾 Dataset & Model
+dataset.csv
+RuBERT checkpoint: DeepPavlov/rubert-base-cased[file:62]
 
+
+## 📈 Results Visualization
+![Training Curves](https://raw.githubusercontent.com/VeronikaKolimova/poet-ident-RUBert-LSTM/main/images/training_curves.png)
+![Confusion Matrix](https://raw.githubusercontent.com/VeronikaKolimova/poet-ident-RUBert-LSTM/main/images/confusion_matrix.png)
 
 
 
