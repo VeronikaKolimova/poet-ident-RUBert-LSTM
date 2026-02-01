@@ -10,22 +10,18 @@
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange)](https://pytorch.org/)
-[![Transformers](https://img.shields.io/badge/Transformers-4.30-blueviolet)](https://huggingface.co/docs/transformers/index)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
+[![HuggingFace](https://img.shields.io/badge/🤗-Transformers-ffcc00.svg)](https://huggingface.co)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)](https://scikit-learn.org/)
 [![RuBERT](https://img.shields.io/badge/RuBERT-base-cased-red)](https://huggingface.co/DeepPavlov/rubert-base-cased)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+[![Status Completed](https://img.shields.io/badge/status-completed-brightgreen.svg)]()
 
 </div>
 
 # 🌹 Классификация авторства русских стихотворений / Russian Poetry Authorship Classification
 
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
-[![HuggingFace](https://img.shields.io/badge/🤗-Transformers-ffcc00.svg)](https://huggingface.co)
-[![License MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Status Completed](https://img.shields.io/badge/status-completed-brightgreen.svg)]()
 
 ## Открыть ноутбук (рекомендуется):
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/poet-ident-RUBert-LSTM/blob/main/L_07.ipynb)
