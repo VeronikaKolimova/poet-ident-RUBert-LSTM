@@ -3,8 +3,7 @@
 ### Сlassification of poetic texts using 2 approaches: pre-trained RuBERT (fine-tuning) and LSTM architecture. PyTorch implementation includes comparison of transformer vs RNN approaches for classification task.
 <div align="center">
 
-
-[![Stars](https://img.shields.io/github/stars/yourusername/rubert-poetry-classifier?style=social)](https://github.com/VeronikaKolimova/poet-ident-RUBert-LSTM/stargazers/)
+[![Stars](https://img.shields.io/github/stars/VeronikaKolimova/poet-ident-RUBert-LSTM?style=social)](https://github.com/VeronikaKolimova/poet-ident-RUBert-LSTM/stargazers/)
 
 </div>
 
@@ -14,7 +13,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
 [![HuggingFace](https://img.shields.io/badge/🤗-Transformers-ffcc00.svg)](https://huggingface.co)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3-orange)](https://scikit-learn.org/)
-[![RuBERT](https://img.shields.io/badge/RuBERT-base-cased-red)](https://huggingface.co/DeepPavlov/rubert-base-cased)
+[![RuBERT](https://img.shields.io/badge/RuBERT-base--cased-red)](https://huggingface.co/DeepPavlov/rubert-base-cased)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 [![Status Completed](https://img.shields.io/badge/status-completed-brightgreen.svg)]()
 
