@@ -4,8 +4,8 @@
 <div align="center">
 
 
-[![Stars](https://img.shields.io/github/stars/yourusername/rubert-poetry-classifier?style=social)](https://github.com/yourusername/rubert-poetry-classifier/stargazers/)
-[![Forks](https://img.shields.io/github/forks/yourusername/rubert-poetry-classifier?style=social)](https://github.com/yourusername/rubert-poetry-classifier/network/members/)
+[![Stars](https://img.shields.io/github/stars/yourusername/rubert-poetry-classifier?style=social)](https://github.com/VeronikaKolimova/poet-ident-RUBert-LSTM/stargazers/)
+[![Forks](https://img.shields.io/github/forks/yourusername/rubert-poetry-classifier?style=social)](https://github.com/VeronikaKolimova/poet-ident-RUBert-LSTM/network/members/)
 
 </div>
 
