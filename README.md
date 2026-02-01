@@ -27,8 +27,8 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status Completed](https://img.shields.io/badge/status-completed-brightgreen.svg)]()
 
+## Открыть ноутбук (рекомендуется):
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/poet-ident-RUBert-LSTM/blob/main/L_07.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/poet-ident-RUBert-LSTM/blob/main/L_07.ipynb/HEAD)
 
 ## 🌍 Описание / Description
 **RU**: Классификация авторства стихотворений (Бунин, Есенин, Маяковский, Цветаева) с применением нейросетей: простые модели LSTM/BiLSTM и дообученная модель RuBERT (DeepPavlov). Сравнение архитектур, визуализация метрик, анализ ошибок. Точность RuBERT: **96.83%**.
