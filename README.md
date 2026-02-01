@@ -27,15 +27,32 @@
 [![License MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status Completed](https://img.shields.io/badge/status-completed-brightgreen.svg)]()
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/repo/blob/main/L_07.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yourusername/repo/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeronikaKolimova/poet-ident-RUBert-LSTM/blob/main/L_07.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/VeronikaKolimova/poet-ident-RUBert-LSTM/blob/main/L_07.ipynb/HEAD)
 
 ## 🌍 Описание / Description
 **RU**: Классификация авторства стихотворений (Бунин, Есенин, Маяковский, Цветаева) с применением нейросетей: простые модели LSTM/BiLSTM и дообученная модель RuBERT (DeepPavlov). Сравнение архитектур, визуализация метрик, анализ ошибок. Точность RuBERT: **96.83%**.
 
 **EN**: Authorship classification of Russian poems using neural networks: custom LSTM/BiLSTM and fine-tuned RuBERT (DeepPavlov). Model comparison, metrics visualization, error analysis. RuBERT accuracy: **96.83%**.
 
-## 🚀 Быстрый старт
+## 📊 Key Results
+| Model | Epochs | Val Accuracy | Val Loss |
+|-------|--------|--------------|----------|
+| Frozen BERT | 10 | **63.65%** | 1.0997 |
+| Fine-tuned | **5** | **96.88%** | **0.1449** |
+
+**Dataset**: 420 Russian poems, 4 authors (294 train / 63 val / 63 test)
+
+## 🚀 Quick Start
 ```bash
 pip install -r requirements.txt
-python train.py  # или запустите L_07.ipynb в Jupyter
+jupyter notebook L_07.ipynb
+```
+
+## 📈 Results Visualization
+
+
+
+
+
+
