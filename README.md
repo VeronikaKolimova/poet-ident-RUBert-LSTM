@@ -56,7 +56,7 @@ RuBERT checkpoint: DeepPavlov/rubert-base-cased[file:62]
 
 ## 📈 Results Visualization
 ![Training Curves](https://raw.githubusercontent.com/VeronikaKolimova/poet-ident-RUBert-LSTM/main/images/bert_training_curves.png)
-![Confusion Matrix](https://raw.githubusercontent.com/VeronikaKolimova/poet-ident-RUBert-LSTM/main/images/_lstm_cm.png.png)
+![Confusion Matrix](https://raw.githubusercontent.com/VeronikaKolimova/poet-ident-RUBert-LSTM/main/images/_lstm_cm.png)
 
 
 
